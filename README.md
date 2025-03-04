@@ -28,10 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQHw90-scfC9AA/profile-displayphoto-shrink_200_200/B4DZPptZ4nHwAk-/0/1734792815306?e=1746662400&v=beta&t=qk0sIipDs0K4CuAZo0b097x0UL1YmVWbPkTgh6ErFEs"  />
-</div>
-
-###
