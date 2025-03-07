@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Paloma and I'm a data analyst., from Brazil</p>
+<p align="left">My name is Paloma Ferreira and I'm a data analyst., from Brazil</p>
 
 ###
 
